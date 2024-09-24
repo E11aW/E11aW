@@ -1,7 +1,7 @@
-# Hi There! I'm Raine Johnson
-<a href="https://www.linkedin.com/in/raine-johnson/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# Hi, I'm Ella Williams!
+<a href="[https://www.linkedin.com/in/raine-johnson/](https://www.linkedin.com/in/ella-williams2024/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am an undergraduate at the University of Washington Bothell with a profound interest in technology and cybersecurity, with a dedication to solving complex security problems.
+I am an undergraduate student at the University of Washington Bothell working towards a Bachelor's degree in computer science and software engineering.
 
 ## Objective
 

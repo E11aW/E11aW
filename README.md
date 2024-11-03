@@ -16,6 +16,16 @@ Throughout my education, I have developed a passion for programming, which set m
 | USER INPUT IN JAVA                            | <a href = "https://github.com/E11aW/Student-Services-Desk">Student Services Desk</a>|
 | GAME DESIGN                                   | <a href="https://github.com/E11aW/Saving-SuperSlimeLand">Saving SuperSlimeLand Game</a>|
 
+## Programming Languages
+- C++
+- Java
+- Python
+- C
+- C#
+- Javascript
+- HTML
+- SQL
+
 ## Projects
 
 - <a href="https://github.com/E11aW/Saving-SuperSlimeLand">Saving SuperSlimeLand Game</a> 

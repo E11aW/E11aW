@@ -7,7 +7,7 @@ I am an undergraduate student at the University of Washington Bothell working to
 
 Throughout my education, I have developed a passion for programming, which set me down the path towards becoming a software engineer. I love problem solving, working in well-managed teams, and most of all: programming. I love learning new languages, challening myself with new projects, and seeing the final product come to life!
 
-## Skills
+## Technical Skills
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|

@@ -12,6 +12,7 @@ Throughout my education, I have developed a passion for programming, which set m
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | OBJECT ORIENTED PROGRAMMING                   | <a href="https://github.com/E11aW/Saving-SuperSlimeLand">Saving SuperSlimeLand Game</a>|
+| DATABASE SYSTEMS                              | <a href = "https://github.com/E11aW/elementary-school-database">NE Elementary School Database</a>|
 | RECURSION                                     | <a href="https://github.com/E11aW/Greedy-Robot">Greedy Robot</a>|
 | USER INPUT IN JAVA                            | <a href = "https://github.com/E11aW/Student-Services-Desk">Student Services Desk</a>|
 | GAME DESIGN                                   | <a href="https://github.com/E11aW/Saving-SuperSlimeLand">Saving SuperSlimeLand Game</a>|
@@ -29,6 +30,7 @@ Throughout my education, I have developed a passion for programming, which set m
 
 ## Projects
 
+- <a href = "https://github.com/E11aW/elementary-school-database">NE Elementary School Database</a> 
 - <a href = "https://github.com/E11aW/Saving-SuperSlimeLand">Saving SuperSlimeLand Game</a> 
 - <a href = "https://github.com/E11aW/Greedy-Robot">Greedy Robot</a>
 - <a href = "https://github.com/E11aW/Student-Services-Desk">Student Services Desk</a>

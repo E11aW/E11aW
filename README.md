@@ -31,7 +31,8 @@ Throughout my education, I have developed a passion for programming, which set m
 ## Projects
 
 - <a href = "https://github.com/E11aW/elementary-school-database">NE Elementary School Database</a> 
-- <a href = "https://github.com/E11aW/Saving-SuperSlimeLand">Saving SuperSlimeLand Game</a> 
+- <a href = "https://github.com/E11aW/Saving-SuperSlimeLand">Saving SuperSlimeLand Game</a>
+- <a href = "https://github.com/E11aW/Graph-Algorithms">Graph Algorithms</a>
 - <a href = "https://github.com/E11aW/Greedy-Robot">Greedy Robot</a>
 - <a href = "https://github.com/E11aW/Student-Services-Desk">Student Services Desk</a>
 - <a href = "https://github.com/E11aW/Linked-Lists">Linked Lists</a>

@@ -1,5 +1,6 @@
 # About Me
-<a href="https://www.linkedin.com/in/ella-williams2024/"><img src="https://github.com/user-attachments/assets/6ac8d626-ff34-40e3-ad60-473d975262da" height=30 /></a>
+<a href="https://e11aw.github.io/Ella-Personal-Website/index.html"><img src="https://github.com/user-attachments/assets/0ebefd64-da9b-408e-8db4-4560f371a91a" height=30/></a>
+<a href="https://www.linkedin.com/in/ella-williams2024/"><img src="https://github.com/user-attachments/assets/6ac8d626-ff34-40e3-ad60-473d975262da" height=30/></a>
 <a href="https://devpost.com/E11aW?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav"><img src="https://github.com/user-attachments/assets/78cc54ba-22f5-48ff-ae28-e037a88065d3" height=30/></a>
 <a href="https://leetcode.com/u/e11aw/"><img src="https://github.com/user-attachments/assets/8ab8e07e-1d5d-486f-bf48-456ccc517b64" height=30/></a>
 

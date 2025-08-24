@@ -12,7 +12,7 @@ Throughout my education I have developed a passion for programming, which set me
 ## Current Projects
 | Projects | Languages | Skills |
 |----------|-----------|--------|
-<a href = "https://github.com/ClaytonMcArthur/Hackathon.git"><img src="https://github.com/user-attachments/assets/34f189ab-ce7e-4edc-b825-71bfc91f77ec" height=60/></a> | <ul><li>JavaScript</li><li>CSS</li><li>HTML</li></ul> | <ul><li>Integrated systems</li><li>Game design</li><li>Website design</li></ul> |
+<a href = "https://github.com/ClaytonMcArthur/Hackathon.git"><img src="https://github.com/user-attachments/assets/34f189ab-ce7e-4edc-b825-71bfc91f77ec" height=60 max-height=60/></a> | <ul><li>JavaScript</li><li>CSS</li><li>HTML</li></ul> | <ul><li>Integrated systems</li><li>Game design</li><li>Website design</li></ul> |
 <a href = "https://github.com/E11aW/elementary-school-database"><img src="https://github.com/user-attachments/assets/40c5a303-e0eb-46a0-8425-af95165a869f" height=60/></a> | <ul><li>Python</li><li>SQL</li></ul> | <ul><li>Database systems</li><li>User input</li></ul> |
 <a href = "https://github.com/E11aW/Saving-SuperSlimeLand"><img src="https://github.com/user-attachments/assets/a98f3917-b4d6-46fa-a13f-a1f68fc56936" height=60/></a> | <ul><li>Java</li></ul> | <ul><li>Object oriented programming</li><li>Game design</li></ul> |
 <a href = "https://github.com/E11aW/Movie-Store"><img src="https://github.com/user-attachments/assets/41366c52-e968-49a7-99bb-a8aeebfab075" height=60/></a> |<ul><li>C++</li></ul> | <ul><li>Abstraction</li><li>Polymorphism</li><li>Design patterns</li></ul> |
